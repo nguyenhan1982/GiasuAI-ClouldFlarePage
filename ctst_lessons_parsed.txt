@@ -1,0 +1,700 @@
+
+===== PARSING C:\Antigravity\de_ontap_he-main\docx_ctst_hk1.txt =====
+Line 3 [CHAPTER]: CHƯƠNG 1: SỐ TỰ NHIÊN
+Line 253: Bài 3 :
+   + Tập hợp cho bởi cách liệt kê phần tử
+   + Tập hợp cho bởi tính chất đặc trưng
+   + H = {2; 4; 6; 8; 10}
+Line 273: Bài 4:
+   + Tập hợp T gồm tên các tháng dương lịch trong quý IV ( ba tháng cuối năm) :
+   + T= { tháng 10 ; tháng 11 ; tháng 12}
+   + Phần tử có số ngày là 31 là tháng 10 và tháng 12.
+Line 494 [CHAPTER]: ( mặt đồng hồ, số thự tự các chương mục của sách, thứ tự của thế kỉ...)
+Line 560: Bài 1 :
+   + a) 15 ∈  N;       b) 10,5 ∉ N*;
+   + c)  ∉ N   ;          d) 100 ∈ N.
+   + Bài 2 :
+Line 563: Bài 2 :
+   + a) Sai
+   + b) Sai
+   + c) Đúng
+Line 568: Bài 3:
+   + 2 756 = 2 × 1000 + 7 × 100 + 5 × 10 + 6
+   + 2 053 = 2 × 1000 + 0 × 100 + 5 × 10 + 3
+   + - GV đánh giá, nhận xét, chuẩn kiến thức.
+Line 583: Bài 3:  (SBT – tr9)
+   + b) Có : 1 441 457 889 > 1 386 638 130
+Line 588: Bài 6:  (SBT – tr9)
+   + Kết quả sau khi dịch chuyển que tăm :
+Line 797: Bài 1 :
+   + a) 2 021 + 2 022+ 2 023 + 2 024 + 2 025 + 2 026 + 2 027 + 2 028 + 2 029
+   + = (2 021 + 2 029) + (2 022 + 2 028) + (2 023 + 2 027) + (2 024 + 2 026) + 2 025
+   + = 4 050 + 4 050 + 4 050 + 4 050 + 2025
+Line 814: Bài 2 : Giải :
+   + Mẹ Bình đã mua hết số tiền là:
+   + 9 × 6 500 + 5 × 4 500 + 2 × 5 000 = 91 000 (đồng).
+   + Bài 3: Giải:
+Line 817: Bài 3: Giải:
+   + Từ lúc đúng 8 giờ đến lúc đúng 12 giờ trưa cùng ngày nó sẽ đánh:
+   + 8 + 9 + 10 + 11 + 12 = (8 + 12) + (9 + 11) + 10 = 20 + 20 + 10 = 5 (tiếng đánh).
+   + Vậy: Từ lúc đúng 8 giờ đến lúc đúng 12 giờ trưa cùng ngày nó sẽ đánh 5 tiếng đánh.
+Line 821: Bài 4:Giải:
+   + Độ dài đường xích đạo so với khoảng cách giữa hai thành phố trên là:
+   + 40 000 : 2 000 = 20 (lần).
+   + Vậy: Độ dài đường xích đạo dài gấp 20 lần khoảng cách giữa hai thành phố trên.
+Line 1039: Bài 1 :
+   + Cột A
+   + Cột B
+   + 37.33
+Line 1053: Bài 2:
+   + a) 57 . 55 = 57+5 = 512.
+   + 95 : 80 =95 : 1 = 95.
+   + 210 : 64 . 16 = 210 : 26 . 24= 210-6+4= 28.
+Line 1069: Bài 3:  Giải:
+   + Viết dân số của Việt Nam dưới dạng tích của một số với một lũy thừa của 10 như sau:
+   + 98 000 000 = 98. 1 000 000 = 98 . 106
+   + Bài 4: Giải:
+Line 1072: Bài 4: Giải:
+   + a) Khối lượng của Trái Đất = 6 . 1021 tấn
+   + Khối lượng của Mặt Trăng = 75 . 1018 tấn
+   + b) Khối lượng Trái Đất gấp khối lượng Mặt Trăng:
+Line 1284: Bài 1:
+   + a) 2 023 + 252 : 53 + 27
+   + = 2 023 + (5 . 5)2 : 53+ 27
+   + = 2 023 + 52 . 2 : 53+ 27
+Line 1297: Bài 2:
+   + a) (9x + 23) : 5 = 2
+   + 9x + 23 = 2 . 5
+   + 9x + 23 = 10
+Line 1320: Bài 3:
+   + a) 20272 – 19732
+   + - Nút ấn:
+   + - Kết quả:
+Line 1327: Bài 4: Giải:
+   + Tổng số tiền mua văn phòng phẩm của cơ quan là:
+   + 35 . 10 + 67 . 5 + 100 . 5 + 35 . 7 + 35 . 5 = 1 605 (nghìn đồng).
+   + Đáp án: 1 605 nghìn đồng.
+Line 1512: Bài 1:
+   + a ) Đúng. Vì 1560 ⋮ 15 và 390 ⋮ 15 nên 1560 + 390 ⋮ 15.
+   + b) Đúng. Vì 456 ⋮̸ 10 và 555 ⋮̸ 10 nên 456 + 555 ⋮̸ 10.
+   + c) Sai. Vì 77 ⋮ 7 và 49 ⋮ 7 nên 77 + 49 ⋮ 7.
+Line 1517: Bài 2:
+   + a) 144 = 3 . 48 => 144 : 3 là phép chia hết.
+   + b) 144 = 13 . 11 + 1 => 144 chia 13 dư 1.
+   + c) 144 = 30 . 4 + 24 => 144 chia 30 dư 24.
+Line 1521: Bài 3:
+   + a) Ta có: 1 298 = 354 . 3 + 236
+   + Vậy: q = 3 và r = 236.
+   + b) Ta có: 40 685 = 985 . 41 + 300
+Line 1533: Bài 4:
+   + Tổng số quyển sách lớp 6A thu được là : 36 + 40 + 15 = 91 quyển.
+   + Ta có: 91 = 4 . 22 + 3 nên 91 không chia hết cho 4.
+   + Vì vậy không thể chia được số sách đã thu được thành 4 nhóm với số lượng quyền bằng nhau.
+Line 1665: Bài 1 :
+   + a) Số chia hết cho 2 là 1010. Bởi vì 1 010 có chữ số tận cùng là 0.
+   + b) Số chia hết cho 5 là 19 445. Bởi vì 19 445 có chữ số tận cùng là 5.
+   + c) Số chia hết cho 10 là 1 010. Bởi vì 19 445 có chữ số tận cùng là 0.
+Line 1669: Bài 2:
+   + a) 146 +  550 chia hết cho 2. Vì 146 ⋮ 2 và 550 ⋮ 2 nên 146 +  550 ⋮ 2.
+   + b) 575 – 40 chia hết cho 5. Vì 575 ⋮ 5 và 40 ⋮ 5 nên 575 – 40 ⋮ 5
+   + c) 3 . 4 . 5 + 83 không chia hết cho 2, không chia hết cho 5
+Line 1683: Bài 3:
+   + a) Ta có: 35 ⋮ 5
+   + 40 ⋮ 5
+   + => Lớp 6A và 6D có thể chia thành 5 tổ có cùng số tổ viên.
+Line 1690: Bài 4:
+   + Ta có: 19 ⋮̸ 5 và 40 ⋮ 5 nên 19 + 40 ⋮̸ 5.
+   + Vì vậy Bà Huệ không thể chia số quả xoài và quýt thành 5 phần bằng nhau.
+   + - GV đánh giá, nhận xét, chuẩn kiến thức.
+Line 1829: Bài 1 :
+   + a) 1 + 1 + 7 = 9 ⋮ 9 nên 117 ⋮ 9
+   + 3 + 4  + 4 + 7 = 18 ⋮ 9 nên 3 447 ⋮ 9
+   + 5 + 0  + 8 + 5 = 18 ⋮ 9 nên 5 085 ⋮ 9
+Line 1839: Bài 2:
+   + a) 1 + 2 + 0 + 6 = 9
+   + + 9 ⋮ 3 nên 1 206 ⋮ 3
+   + + 9 ⋮ 9 nên 1 206 ⋮ 9
+Line 1870: Bài 3:
+   + a) 2 + 0 + 3 = 5 ⋮̸ 3 => 203 ⋮̸ 3.
+   + 1 + 2 + 7 = 10 ⋮̸ 3 nên 203 ⋮̸ 3.
+   + 9 + 7 = 16 ⋮̸ 3 nên 203 ⋮̸ 3.
+Line 2087: Bài 1 :
+   + a) 6 ∈ Ư(48)
+   + b) 12 ∉ Ư(30)
+   + c) 7 ∈ Ư(42)
+Line 2094: Bài 2:
+   + a) Ư(30) = {1; 2; 3; 5; 6; 15; 30}.
+   + b) B(6) = {0; 6; 12; 18; 24; 30; 36; 42; 48}.
+   + c) C ={x  | x  18 và 72  x} = {18; 36; 72}.
+Line 2098: Bài 3:
+   + a) – Độ dài của miếng băng tiếp theo là: 3 . 5 = 15 (cm).
+   + – Các số đo dài của các băng giấy là các bội của 3.
+   + b) Muốn tìm bội của 3 một cách nhanh chóng, ta nhân 3 lần lượt với 0, 1, 2, 3,…
+Line 2109: Bài 4:
+   + Có thể Bình đã biết bí quyết này nên luôn thắng được Minh.
+Line 2347: Bài 1 :
+   + a) 213 là số nguyên tố. Vì chỉ có 2 ước là 1 và chính nó.
+   + b) 245 là hợp số. Vì 245 có nhiều hơn 2 ước.
+   + c) 3 737 là số nguyên tố. Vì chỉ có 2 ước là 1 và chính nó.
+Line 2352: Bài 4 :
+   + a) Sai. Vì tích của một số nguyên tố với 2 là một số chẵn.
+   + b) Đúng. Vì tích của số nguyên tố 2 với số nguyên tố nào khác cũng là số chẵn.
+Line 2356: Bài 5:
+   + a) 80 = 2 . 2 . 2 . 2 . 5 = 24 . 5
+   + => 80 chia hết cho số nguyên tố 2 và 5.
+   + b) 120 = 2 . 2 . 2 . 3 . 5 = 23  . 3 . 5
+Line 2365: Bài 6:
+   + a) 30 = 2 . 3 . 5
+   + => Ư(30) = {1; 2; 3; 6; 10; 15; 30}.
+   + b) 225 = 3 . 3 . 5 . 5 = 32 . 52
+Line 2374: Bài 7 :  a = 23.32.7
+   + Các số là ước của a là: 4, 7, 9, 21 và 24.
+   + - GV đánh giá, nhận xét, chuẩn kiến thức.
+   + D. HOẠT ĐỘNG VẬN DỤNG
+Line 2383: Bài 2 :
+   + Vì 37 là số nguyên tố chỉ chia hết cho 1 và chính nó nên không thể chia được các cặp số.
+   + Vì vậy, các bạn lớp hoàng không thực hiện được.
+   + Bài 8 :
+Line 2386: Bài 8 :
+   + Bình có thể dùng những chiếc bánh chưng để xếp vừa khít vào khay. Vì 60 chia hết cho 15.
+   + - GV cho HS đọc hiểu và phân tích mục Em có biết ? (nếu còn thời gian)
+Line 2498: Bài 1 :
+   + 41  P
+   + 57  P
+   + 83  P
+Line 2503: Bài 2 : Dùng bảng số nguyên tố trong phiếu học tập hoặc trong SGK (tr47) tìm các số nguyên tố sau :
+   + 117 ; 131 ; 313 ; 469 ; 647.
+   + Các số nguyên tố là : 131 ; 313 ; 647.
+   + Bài 4:
+Line 2506: Bài 4:
+   + Kết luận
+   + Đ/S
+   + i. Mỗi số chẵn lớn hơn 2 đều là hợp số.
+Line 2912: Bài 2 :
+   + a) ƯCLN(1, 16) = 1.
+   + b) 8 = 23
+   + 20 = 22 . 5
+Line 2925: Bài 3 :
+   + a) A = {1; 2; 3; 6}
+   + - Nhận xét: Ta thấy tập hợp ƯC (18, 30) = {1; 2; 3; 6} nên tập hợp ƯC (18, 30) giống với tập hợp A.
+   + b)
+Line 2941: Bài 4 :
+   + + Có: ƯCLN ( 28, 42) = 14
+   + + Có: ƯCLN ( 60, 135) = 15
+Line 2955: Bài 5 :
+   + Gọi độ dài lớn nhất có thể của dây ruy băng là x ( cm)
+   + Theo bài ra => x = ƯCLN ( 140, 168, 210) =
+   + Ta có: 140 = 22 . 5 . 7
+Line 3264: Bài 1 :
+   + a) Ta có:
+   + 6 = 2.3
+   + 14 = 2.7
+Line 3283: Bài 2 :
+   + a) A = {0; 48; 96; 144; 192;…}
+   + - Nhận xét: Tập hợp BC(12, 16) chính là tập hợp A.
+   + b)
+Line 3303: Bài 4:
+   + a) Có: BCNN (15, 10) = 30
+   + b) Có: BCNN (6, 9, 12) = 36
+Line 3319: Bài 5 :
+   + Gọi Số bông sen chị Hòa có là: x ( bông, x  N*, 200 x  300)
+   + Theo bài ra => x  BC ( 3, 5, 7)
+   + Ta có: 3 = 3
+Line 3530 [CHAPTER]: - Xem lại nội dung kiến thức toàn bộ các bài trong chương.
+Line 3531 [CHAPTER]: - Xem các bài tập : “Bài tập cuối chương I”
+Line 3536 [CHAPTER]: TIẾT 22+ 23+ 24 : BÀI TẬP CUỐI CHƯƠNG 1
+Line 3559 [CHAPTER]: a) Mục tiêu: Giúp HS củng cố lại kiến thức từ đầu chương tới giờ.
+Line 3582: Bài 1 :
+   + a) A = 37 . 173 + 62 . 173 + 173
+   + = 173 . (37 + 62 + 1)
+   + = 173 . 200
+Line 3601: Bài 2:
+   + a)  chia hết cho 2 và 5 khi chữ số tận cùng của nó là 0
+   + => y = 0
+   + chia hết cho 3 khi tổng các chữ số của nó cũng chia hết cho 3
+Line 3616: Bài 3 :
+   + a) Theo đề bài: 84  a và 180 a => a ∈ ƯC(84, 180) và a > 6.
+   + Ta có: 84 = 22 . 3 . 7
+   + 180 = 22 . 32 . 5
+Line 3634: Bài 7:
+   + a)
+   + a
+   + 8
+Line 3670: Bài 4 :
+   + Số tiền lớp 6A bỏ ra để nhập hàng là:
+   + 100 . 16 500 + 70 . 9 800 = 2 336 000 (đồng)
+   + Số tiền lớp 6A bán được là:
+Line 3678: Bài 5 :
+   + Lần 1: Phân chia thành 2 tế bào con
+   + Lần 2: Phân chia thành 4 tế bào con => 4 = 22
+   + Lần 3: Phân chia thành 8 tế bào con => 8 = 23
+Line 3687: Bài 6:
+   + a) Ở trường hợp a, Huy dùng 3 que tăm để xếp được 1 hình.
+   + Vậy với 36 que tăm thì Huy xếp được số hình là: 36 : 3 = 12 hình.
+Line 3697: Bài 8:
+   + Gọi: Số lượng túi quà nhiều nhất mà nhóm có thể chia được là: x ( túi, x  N*)
+   + Theo đề bài => x = ƯCLN( 48, 32, 56)
+   + 48 = 24.3
+Line 3734 [CHAPTER]: - Xem trước nội dung chương mới và đọc trước bài mới “ Số nguyên âm và tập hợp các số nguyên”
+Line 3738 [CHAPTER]: CHƯƠNG 2: SỐ NGUYÊN
+Line 3948: Bài 2 :
+   + a) 9   => Đúng
+   + b) -6   => Sai. Vì -6
+   + c) -3   => Đúng
+Line 3955: Bài 3:
+   + a) 1;b) -3;c)  0;d) -8
+   + Bài 4:
+Line 3958: Bài 4:
+   + Bài 6:
+   + Số đối của – 5 là 5.
+Line 3960: Bài 6:
+   + Số đối của – 5 là 5.
+   + Số đối của – 10 là 10.
+   + Số đối của 4 là - 4.
+Line 3975: Bài 1 :
+   + a)  Thưởng 5 điểm trong cuộc thi đấu ; +5
+   + b) Bớt 2 điểm vi phạm luật : -2
+   + c) Tăng 1 bậc lương do làm việc hiệu quả : +1
+Line 3980: Bài 6 :
+   + Những điểm A, B nằm cách điểm 0 hai đơn vị biểu diễn các số nguyên 2 và – 2.
+   + - GV nhận xét, đánh giá, chuẩn kiến thức.
+Line 4135: Bài 1 :
+   + a) 6 > 5
+   + b) – 5 < 0
+   + c) – 6 < 5
+Line 4142: Bài 2:
+   + Số đối của – 5 là 5.
+   + Số đối của – 4 là 4.
+   + Số đối của – 1 là 1.
+Line 4149: Bài 3:
+   + Sắp xếp theo thứ tự tăng dần: - 8 < - 6 < - 4 < - 2 < 0 < 2 < 4 < 6 < 8.
+   + Biểu diễn trên trục số:
+Line 4153: Bài 4:
+   + a) A = {- 3; - 2}
+   + b) B = {- 1; 0; 1; 2}
+   + c) C = {- 2; -1}
+Line 4166: Bài 5:
+   + Sắp xếp theo thứ tự từ thấp đến cao nhiệt độ như sau: –51 oC < -15 oC < –2 oC < 8 oC < 12 oC.
+   + - GV nhận xét, đánh giá, chuẩn kiến thức.
+Line 4196: BÀI 3: PHÉP CỘNG VÀ PHÉP TRỪ HAI SỐ NGUYÊN
+   + I. MỤC TIÊU
+   + 1. Kiến thức:  Sau khi học xong bài này HS
+   + - Nhận biết được các quy tắc cộng, trừ số nguyên.
+Line 4542: Bài 1 :
+   + a
+   + b
+   + Dấu của ( a + b)
+Line 4558: Bài 2 :
+   + a) 23 + 45 = 68
+   + b) (-42) + (-54) = - (42 + 54) = - 96
+   + c) 2 025 + (-2 025) = 0
+Line 4564: Bài 5 :
+   + a) 6 – 8 = -2
+   + b) 3 – (-9) = 3 + 9 = 12
+   + c) (-5) – 10 = - (10 + 5) = -15
+Line 4571: Bài 6:
+   + a) S = (45 – 3 756) + 3 756 = 45 – 3 756 + 3 756 = 45 + [(– 3 756) + 3 756] = 45
+   + b) S = (-2 021) - (199 – 2 021) = (-2 021) + (-199)  + 2 021 = - 199
+   + Bài 7:
+Line 4574: Bài 7:
+   + a) (4 + 32 + 6) + (10 – 36 - 6) = 4 + 32 + 6 + 10 – 36 – 6 = 10
+   + b) (77 + 22 – 65) - (67 +  12 - 75) = 77 + 22 – 65 – 67 – 12 + 75 = 30
+   + c) - (-21 +  43 + 7) – (11 – 53 - 17) = 21 – 43 – 7 – 11 + 53 + 17 = 30
+Line 4585: Bài 3:
+   + Tàu ngầm đang ở độ sâu 20 m được biểu diễn: - 20 (m)
+   + Tàu tiếp tục lặn thêm 15 m được biểu diễn: - 15 (m)
+   + => Độ sâu là: (-20) + (-15) = - 35 (m)
+Line 4590: Bài 4 :
+   + Thang máy ở tầng 3 : +3
+   + Thang máy đi lên tầng 7 : + 7
+   + Thang máy đi xuống 12 tầng : -12
+Line 4596: Bài 8 :
+   + a) Năm sinh của Archimedes: - 287
+   + Năm mất của Archimedes: - 212
+   + b) Ta tính tuổi của Archimedes bằng: (-212) - (-287) = (-212) + 287 = 75 (tuổi)
+Line 4630: BÀI 4: PHÉP NHÂN VÀ PHÉP CHIA HAI SỐ NGUYÊN
+   + I. MỤC TIÊU
+   + 1. Kiến thức:  Sau khi học xong bài này HS
+   + - Nhận biết được quy tắc nhân hai số nguyên.
+Line 4990: Bài 1 :
+   + a) (-3) . 7 = - 21
+   + b) (-8) . (-6) = 48
+   + c) (+12) . (-20) = -240
+Line 4995: Bài 3 :
+   + a) Vì (+4) . (- 8) ra kết quả mang dấu âm  => (+4) . (- 8) < 0.
+   + b) Vì (- 3) . 4 ra kết quả mang dấu âm => (- 3) . 4 < 4.
+   + c) Vì (- 5) . (- 8) và (+5) . (+8) ra kết quả mang giá trị dương. => (- 5) . (- 8) = (+5) . (+8).
+Line 4999: Bài 4:
+   + a) (- 3) . (- 2) . (- 5) . 4 = - 120.
+   + b) 3 . 2 . (- 8) . (- 5) = 240.
+   + Bài 7:
+Line 5002: Bài 7:
+   + a) (- 24) . x = - 120
+   + x = (- 120) : (- 24)
+   + x = 5
+Line 5009: Bài 8:
+   + Hai số nguyên khác nhau a và b thỏa mãn a ⋮ b và b ⋮ a.
+   + => Khi đó a và b là số đối của nhau.
+   + Bài 9:
+Line 5012: Bài 9:
+   + Ư(6) = {1; -1; 2; -2; 3; -3; 6; -6}
+   + Ư(1) = {1; -1}
+   + Ư(13) = {1; -1; 13; -13}
+Line 5017: Bài 10:
+   + B(5) = {0; 5; 25;…}
+   + B(-5) = {0;  -5; -25;…}
+   + D. HOẠT ĐỘNG VẬN DỤNG
+Line 5027: Bài 5 :
+   + - Cứ mỗi phút giảm 2 oC
+   + => Sau 5 phút nhiệt độ giảm: 5 . 2 = 10 oC.
+   + Vậy: Sau 5 phút nữa nhiệt độ trong kho là: 8 – 10 = - 2oC.
+Line 5031: Bài 6 :
+   + Nhiệt độ bên ngoài trung bình mỗi phút tăng lên 4oC
+   + => Sau 10 phút nữa nhiệt độ tăng: 4 . 10 = 40oC.
+   + Vậy: Sau 10 phút nữa nhiệt độ bên ngoài máy bay là:  - 28 + 40 = 12oC.
+Line 5035: Bài 11:
+   + Sau 7 ngày nhiệt độ tại đây là – 39oC
+   + => Sau 7 ngày nhiệt độ thay đổi: – 25 + (– 39) = – 14oC => Sau 7 ngày nhiệt độ giảm 14oC.
+   + => Trung bình mỗi ngày nhiệt độ giảm: 14 : 7 = - 2oC.
+Line 5040: Bài 12:
+   + Ta có: Một quý sẽ gồm có 3 tháng.
+   + - Số tiền lãi của bác Ba: 60 : 3 = 20 (triệu đồng)
+   + - Số tiền lỗ của bác Tư: 12 : 3 = 4 (triệu đồng)
+Line 5219 [CHAPTER]: - Ôn lại toàn bộ nội dung kiến thức chương 2.
+Line 5227 [CHAPTER]: TIẾT 43+ 44+ 45 : BÀI TẬP CUỐI CHƯƠNG 2
+Line 5266: Bài 1 :
+   + a) 73 – (2 – 9) = 73 – 2 + 9 = 80.
+   + b) (- 45) – (27 – 8) = - 45 – 27 + 8 = - 64.
+   + Bài 2:
+Line 5269: Bài 2:
+   + a) x2 = 4
+   + x . x = 4
+   + => x = 2 hoặc x = - 2.
+Line 5276: Bài 3 :
+   + a) 12 : 6 = 2
+   + b) 24 : (- 8) = -3
+   + c) (- 36) : 9 = -4
+Line 5283: Bài 6:
+   + 3
+Line 5331: Bài 4 :
+   + Ta biết rằng các năm sinh TCN được quy định là số âm.
+   + Ta có: 1 601 > 1 596 > 1 441 > - 287 > - 570 > - 624.
+Line 5335: Bài 5 :
+   + Khoảng cách theo chiều thẳng đứng giữa máy bay và tàu ngầm:
+   + 5 000 – (- 1 200) = 6 200 (m).
+   + Vậy: Khoảng cách theo chiều thẳng đứng giữa máy bay và tàu ngầm là 6 200 m.
+Line 5339: Bài 7:
+   + => Người đó đang đứng điểm: - 15 + 25 = 10 (đơn vị)
+   + Bài 8:
+Line 5342: Bài 8:
+   + Sau một năm, số tiền công ty có được là: 225 – 280 + 655 = 600 (triệu đồng)
+   + => Sau một năm công ty lãi 600 triệu đồng
+   + Bình quân mỗi tháng công ty lãi: 600 : 12 = 50 (Triệu đồng)
+Line 5378 [CHAPTER]: CHƯƠNG 3: CÁC HÌNH PHẲNG TRONG THỰC TIỄN
+Line 5588: Bài 1 :
+   + Hình vuông: b)
+   + Hình tam giác đều: c)
+Line 5593: Bài 2 :
+   + Vẽ hình vuông ABCD cạnh 7cm bằng thước và ê ke:
+   + + Bước 1: Vẽ đoạn thẳng CD = 7cm.
+   + + Bước 2: Vẽ hai đường thẳng vuông góc với CD tại C và D .
+Line 5614: Bài 3:
+   + Bài 4:
+Line 5617: Bài 4:
+   + Vẽ tam giác đều ABC cạnh 4 cm:
+   + + Vẽ đoạn thẳng AB = 4cm.
+   + + Lấy A, B làm tâm, vẽ hai đường tròn bán kính 4cm.
+Line 5623: Bài 5:
+   + Tam giác ABC là tam giác đều. Bởi vì có các cạnh và các góc bằng nhau.
+   + - GV đánh giá, nhận xét, chuẩn kiến thức.
+Line 5636: Bài 7 :
+   + Biển báo
+Line 5964: Bài 1 :
+   + Hình a: Hình thoi
+   + Hình b: Hình thang cân
+Line 5970: Bài 2:
+   + Bài 3:
+   + Vẽ hình chữ nhật ABCD có AB = 5cm, AD =  8cm:
+Line 5972: Bài 3:
+   + Vẽ hình chữ nhật ABCD có AB = 5cm, AD =  8cm:
+   + + Vẽ đoạn thẳng AB = 5cm và đoạn thẳng AD = 8cm vuông góc với nhau.
+   + + Qua B vẽ đường thẳng vuông góc với AB.
+Line 5994: Bài 5 :
+   + Vẽ hình bình hành ABCD có MN = 3cm; NP = 4cm
+   + Bước 1: Vẽ đoạn thẳng MN = 3cm.
+   + Bước 2: Vẽ đường thẳng đi qua N. Trên đường thẳng đó, lấy điểm P : NP = 4cm.
+Line 6017: Bài 7: Vẽ hình thoi MNPQ có góc MNP =60o và MN =6cm.
+   + -Vẽ đoạn thẳng MN = 6cm.
+   + - Lấy A, B làm tâm, vẽ hai đường tròn bán kính 6cm.
+Line 6048: Bài 4 :
+   + Kết quả sau khi ghép :
+   + Bài 6 :
+Line 6051: Bài 6 :
+   + - Hình vừa cắt được là hình thoi.
+   + - Hai đường chéo của hình vừa cắt được vuông góc với nhau và cắt nhau tại trung điểm của mỗi đường.
+Line 6055: Bài 8:
+   + Kết quả sau khi ghép:
+   + - GV nhận xét, đánh giá, chuẩn kiến thức.
+Line 6300: Bài 1:Giải :
+   + a)  S =  20 . 5 = 100 (cm2)
+   + b) Đổi đơn vị: 20 dm = 2 m
+   + => S =  = 5 (m2)
+Line 6313: Bài 2: Giải :
+   + a)
+   + Diện tích hình được tô màu bằng tổng diện tích hai hình chữ nhật.
+Line 6334: Bài 3 :
+   + Diện tích mảnh vườn bằng tổng diện tích hình thang cân ABCD  và hình bình hành ADEF.
+   + Diện tích hình thang cân ABCD là:
+Line 6344: Bài 4:
+   + Diện tích mảnh vườn là:
+Line 6595 [CHAPTER]: - Xem lại nội dung kiến thức toàn bộ các bài trong chương.
+Line 6596 [CHAPTER]: - Xem các bài tập : “Bài tập cuối chương 3”
+Line 6601 [CHAPTER]: TIẾT 56 + 57 + 58: BÀI TẬP CUỐI CHƯƠNG 3
+Line 6613 [CHAPTER]: 1 - GV:  SGK, giáo án tài liệu, sơ đồ tư duy tổng hợp kiến thức chương 3.
+Line 6652: Bài 1 :
+   + a) Vẽ tam giác đều ABC cạnh 5 cm:
+   + + Vẽ đoạn thẳng AB = 5cm.
+   + + Lấy A, B làm tâm, vẽ hai đường tròn bán kính 5cm.
+Line 6734: Bài 3:
+   + Hình trên gồm các hình:
+   + + Hình thoi
+Line 6741: Bài 5:
+   + - Hình trên gồm 6 hình thang cân và 2 lục giác đều.
+   + Bài 7:
+Line 6744: Bài 7:
+   + Từ hình vẽ => Độ dài hai đường chéo của hình thoi lần lượt là 60 cm, 40 cm.
+   + Diện tích của con diều là:
+Line 6756: Bài 2 : Hình vuông sau khi ghép:
+Line 6761: Bài 4: Hình bình hành sau khi ghép:
+   + Bài 6: Hình bình hành sau khi cắt ghép 6 hình tam giác đều:
+Line 6763: Bài 6: Hình bình hành sau khi cắt ghép 6 hình tam giác đều:
+Line 6789 [CHAPTER]: - Tìm hiểu trước chương mới và đọc trước bài mới “Thu thập và phân loại dữ liệu”.
+Line 6793 [CHAPTER]: CHƯƠNG 4: MỘT SỐ YẾU TỐ THỐNG KÊ
+Line 6971: Bài 1 :
+   + Món ăn sáng
+   + Kiểm đếm
+   + Số bạn ăn
+Line 6990: Bài 2 :
+   + a) Lan đang điều tra về các món ăn sáng nay của các bạn trong lớp.
+   + b) Lan thu thập được các loại dữ liệu là:
+   + - Các món ăn sáng của các bạn sáng nay gồm: xôi, bánh mì, bánh bao, cơm tấm, phở.
+Line 7001: Bài 4:
+   + - Các loại dữ liệu xuất hiện trong bảng thống kê:
+   + + Các chữ cái được dùng nhiều nhất khi viết 10 000 từ tiếng Anh thông dụng.
+   + + Số lần gõ bàn phím của một số chữ cái được dùng nhiều.
+Line 7006: Bài 5:
+   + D. HOẠT ĐỘNG VẬN DỤNG
+   + a. Mục tiêu: Học sinh thực hiện làm bài tập vận dụng để nắm vững kiến thức
+Line 7016: Bài 4 :
+   + Ví dụ :
+   + Các môn học được các bạn trong lớp yêu thích
+   + Các môn học
+Line 7257: Bài 1 :
+   + a) Tên bảng dữ liệu: Bảng thống kê các bộ phim yêu thích của các học sinh lớp 6A3.
+   + b) Bảng thống kê các bộ phim yêu thích của các học sinh lớp 6A3:
+   + Loại phim
+Line 7273: Bài 1 : (SBT –tr 89) :
+   + a) Tên bảng dữ liệu : Bảng thống kê loài hoa yêu thích nhất của tổ 1 lớp 6B.
+   + b) Bảng thống kê loài hoa yêu thích nhất của tổ 1 lớp 6B :
+   + Loài hoa
+Line 7296: Bài 2 : Bảng dữ liệu ban đầu về số thành viên trong gia đình của các bạn trong tổ em :
+   + 3
+   + 4
+   + 2
+Line 7325: Bài 3 : Bảng dữ liệu ban đầu về món ăn sáng ưa thích nhất của các bạn trong tổ em:
+   + Cơm rang
+   + Phở
+   + Bánh mì
+Line 7557: Bài 1 :
+   + a) Xã E có ít máy cày nhất (15 máy).
+   + b) Xã A có nhiều máy cày nhất (50 máy).
+   + c) Ta có: 50 – 15 = 35 => Xã E có nhiều hơn xã E 35 máy cày.
+Line 7569: Bài 2:
+   + a) Lớp 6A3 có ít học sinh nữ nhất (10 học sinh).
+   + c) Lớp 6A6 có 20 học sinh nữ.
+Line 7591: Bài 3 :
+   + Số xe ô tô bán được của cửa hàng A
+   + Năm
+   + Số xe bán được
+Line 7869: Bài 1 :
+   + Trái cây ưa thích của học sinh lớp 6A1
+   + Loại trái cây
+   + Chuối
+Line 7881: Bài 3:
+   + Nhận xét:
+   + - Điểm các môn Ngữ văn, Giáo dục công dân, Lịch sử và địa lí của Lan cao hơn Hùng.
+   + - Điểm các môn Toán, Khoa học tự nhiên của Hùng cao hơn Lan.
+Line 7888: Bài 5:
+   + a) Vào năm 2015, tỉnh Thừa Thiên – Huế có hơn 100 trường THCS. => Đúng.
+   + b) Vào năm 2005, tỉnh Quảng Ngãi có nhiều trường THCS hơn tỉnh Quảng Bình. => Sai.
+Line 7901: Bài 2 :
+   + a)
+   + b) Số lượng học sinh tăng theo từng năm là 10 học sinh.
+Line 7906: Bài 4:
+   + Bài 6:
+   + VD: Tổng kết số lượng điểm 10 trong học kì 1 và học kì 2 của từng tổ trong lớp 6A.
+Line 7908: Bài 6:
+   + VD: Tổng kết số lượng điểm 10 trong học kì 1 và học kì 2 của từng tổ trong lớp 6A.
+   + IV. KẾ HOẠCH ĐÁNH GIÁ
+Line 8030 [CHAPTER]: - Xem lại và ghi nhớ nội dung kiến thức các bài trong chương.
+Line 8031 [CHAPTER]: -  Đọc và chuẩn bị trước, xem trước các bài tập bài : “ Bài tập cuối chương 4.”
+Line 8036 [CHAPTER]: TIẾT 71 + 72 + 73: BÀI TẬP CUỐI CHƯƠNG 4
+Line 8039 [CHAPTER]: - Củng cố kiến thức các bài học trong chương.
+Line 8081: Bài 1 :
+   + Nhà bạn
+   + Số quả mít
+   + Nhà Cúc
+Line 8091: Bài 3:
+   + a)
+   + Độ tuổi
+   + Số bạn
+Line 8108: Bài 4 : Những thông tin nhận được từ biểu đồ tranh này được ghi trong bảng thống kê sau :
+   + Tình hình sản xuất của một phân xưởng lắp ráp xe ô tô trong tuần
+   + Ngày
+   + Số xe lắp ráp được
+Line 8131: Bài 5:
+   + a)
+   + Sản lượng gạo xuất khẩu của Việt Nam
+   + Năm
+Line 8167: Bài 2 :
+   + a) Có 30 bạn tham gia trả lời.
+   + b)
+   + Bảng thống kê loại quả ưa thích nhất của một số bạn trong lớp :
+Line 8186: Bài 6:
+   + a) Hùng đạt được tiến bộ nhiều nhất ở môn Khoa học tự nhiên.
+   + b) Hùng đạt được tiến bộ ít nhất ở môn Ngữ Văn.
+
+===== PARSING C:\Antigravity\de_ontap_he-main\docx_ctst_hk2.txt =====
+Line 3 [CHAPTER]: CHƯƠNG V: PHÂN SỐ
+Line 4: BÀI 1: PHÂN SỐ VỚI TỬ SỐ VÀ MẪU SỐ LÀ SỐ NGUYÊN
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+Line 181: BÀI 2: TÍNH CHẤT CƠ BẢN CỦA PHÂN SỐ
+   + I. MỤC TIÊU
+   + - Biết hai tính chất cơ bản của phân số và dùng nó để tạo lập phân số bằng phân số đã cho
+   + - Biết quy đồng mẫu số hai phân số
+Line 348: BÀI 3: SO SÁNH PHÂN SỐ
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Biết so sánh hai phân số
+Line 539: BÀI 4: PHÉP CỘNG VÀ PHÉP TRỪ PHÂN SỐ
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Biết tìm số đối của phân số đã cho
+Line 746: BÀI 5: PHÉP NHÂN VÀ PHÉP CHIA PHÂN SỐ
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Thực hiện được nhân, chia phân số
+Line 915: BÀI 6: GIÁ TRỊ PHÂN SỐ CỦA MỘT SỐ
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + 2. Năng lực
+Line 1074: BÀI 7: HỖN SỐ
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Biến đổi hỗn số ra phân số và ngược lại
+Line 1224: BÀI 8: HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Biết phân số có thể dùng trong một số cảnh, vật và hoạt động gần gũi với HS
+Line 1319 [CHAPTER]: BÀI: BÀI TẬP CUỐI CHƯƠNG 5
+Line 1322 [CHAPTER]: - Ôn tập kiến thức chương 5
+Line 1323 [CHAPTER]: - Hoàn thành các bài tập cuối chương 5
+Line 1417 [CHAPTER]: CHƯƠNG 6: SỐ THẬP PHÂN
+Line 1418: BÀI 1: SỐ THẬP PHÂN
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Nhận biết được số thập phân âm, số đối của một số thập phân
+Line 1603: BÀI 2: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Thực hiện được các phép tính cộng, trừ, nhân, chia với số thập phân
+Line 1857: BÀI 3: LÀM TRÒN SỐ THẬP PHÂN VÀ ƯỚC LƯỢNG KẾT QUẢ
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Thực hiện được làm tròn số thập phân đếm hàng quy tròn theo yêu cầu
+Line 2009: BÀI 4: TỈ SỐ VÀ SỐ PHẦN TRĂM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Hiểu được khái niệm tỉ số và tỉ số phần trăm của hai đại lượng
+Line 2164: BÀI 5: BÀI TOÁN VỀ TỈ SỐ PHẦN TRĂM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + 2. Năng lực
+Line 2339: BÀI 6: HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Tính tỉ số phần trăm và lãi suất ngân hàng
+Line 2430 [CHAPTER]: BÀI: BÀI TẬP CUỐI CHƯƠNG 6
+Line 2433 [CHAPTER]: - Ôn tập kiến thức chương 6
+Line 2434 [CHAPTER]: - Hoàn thành bài tập cuối chương
+Line 2521 [CHAPTER]: CHƯƠNG 7: HÌNH HỌC TRỰC QUAN
+Line 2523: BÀI 1: HÌNH CÓ TRỤC ĐỐI XỨNG
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Nhận biết được trục đối xứng của một hình phẳng
+Line 2664: BÀI 2: HÌNH CÓ TÂM ĐỐI XỨNG
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Nhận biết được tâm đối xứng của một hình phẳng
+Line 2796: BÀI 3: VAI TRÒ CỦ TÍNH ĐỐI XỨNG TRONG THẾ GIỚI TỰ NHIÊN
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Nhận biết được tính đối xứng trong toán học, tự nhiên, nghệ thuật, kiến trúc, công nghệ chế tạo
+Line 2909: BÀI 4: HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Ứng dụng tính đối xứng trong việc cắt giấy trang trí
+Line 2993 [CHAPTER]: BÀI: BÀI TẬP CUỐI CHƯƠNG 7
+Line 2996 [CHAPTER]: - Ôn lại kiến thức chương 7
+Line 2997 [CHAPTER]: - Hoàn thiện bài tập cuối chương
+Line 3072 [CHAPTER]: CHƯƠNG 8: HÌNH HỌ PHẲNG: CÁC HÌNH HÌNH HỌC CƠ BẢN
+Line 3073: BÀI 1: ĐIỂM. ĐƯỜNG THẲNG
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + Sau khi kết thúc bài học, HS cần:
+Line 3290: BÀI 2: BA ĐIỂM THẲNG HÀNG. BA ĐIỂM KHÔNG THẲNG HÀNG
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + Sau khi kết thúc bài học, học sinh cần:
+Line 3443: BÀI 3: HAI ĐƯỜNG THẲNG CẮT NHAU, SONG SONH. TIA
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Sau khi kết thúc bài học, HS cần đạt được những yêu cầu:
+Line 3593: BÀI 4: ĐOẠN THẲNG. ĐỘ DÀI ĐOẠN THẲNG
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + Sau khi kết thúc bài học, HS cần:
+Line 3800: BÀI 5: TRUNG ĐIỂM CỦA ĐOẠN THẲNG
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Sau khi kết thúc bài học, HS cần:
+Line 3944: BÀI 6: GÓC
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Thấy được góc xuất hiện ở nhiều nơi trong cuộc sống
+Line 4173: BÀI 7: SỐ ĐO GÓC. CÁC GÓC ĐẶC BIỆT
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Sử dụng được thước đo độ để đo góc
+Line 4360: BÀI 8: HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+Line 4465 [CHAPTER]: BÀI: BÀI TẬP CUỐI CHƯƠNG 8
+Line 4469 [CHAPTER]: - Hệ thống hóa được các kiến thức của chương 8
+Line 4470 [CHAPTER]: - Nêu được các ví dụ cho các dạng bài tập cơ bản của chương
+Line 4471 [CHAPTER]: - Kết nối các kiến thức trong chương
+Line 4487 [CHAPTER]: Gv trình bày vấn đề: Ôn tập chương 8
+Line 4587 [CHAPTER]: CHƯƠNG 9: MỘT SỐ YẾU TỐ XÁC SUẤT
+Line 4588: BÀI 1: PHÉP THỬ NGHIỆM – SỰ KIỆN
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+Line 4736: BÀI 2: XÁC SUẤT THỬ NGHIỆM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+   + - Dùng bảng kiểm đếm ghi lại kết quả của phép thử đơn giản
+Line 4878: BÀI 3: HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM
+   + I. MỤC TIÊU
+   + 1. Kiến thức, kĩ năng
+Line 4972 [CHAPTER]: BÀI: BÀI TẬP CUỐI CHƯƠNG 9
+Line 4975 [CHAPTER]: - Ôn tập lại kiến thức chương 9

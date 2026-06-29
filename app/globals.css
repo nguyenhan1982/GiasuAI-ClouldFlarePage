@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Print styles - A4 Portrait */
+@page {
+  size: 210mm 297mm;
+  margin: 12mm 15mm;
+}
+
+@media print {
+  /* Hide non-printable elements */
+  .no-print,
+  header,
+  footer,
+  nav {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  /* Force no scaling - critical for multi-page */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  html {
+    font-size: 12pt !important;
+  }
+
+  /* Reset body for print */
+  html, body {
+    background: white !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 210mm !important;
+    min-height: 297mm !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  /* Remove all containers constraints */
+  .max-w-4xl,
+  .max-w-2xl,
+  .mx-auto {
+    max-width: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Exam paper - full width, natural height */
+  .print-paper {
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: white !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    max-width: none !important;
+    min-height: auto !important;
+    height: auto !important;
+    overflow: visible !important;
+    position: relative !important;
+    display: block !important;
+    /* Force natural size - no scaling */
+    transform: none !important;
+    zoom: 1 !important;
+    -webkit-transform: none !important;
+  }
+
+  /* Force text size for readability */
+  .print-paper {
+    font-size: 12pt !important;
+    line-height: 1.8 !important;
+  }
+
+  .print-paper .text-sm {
+    font-size: 11pt !important;
+  }
+
+  .print-paper .text-xs {
+    font-size: 10pt !important;
+  }
+
+  /* Page break control */
+  .page-break-before {
+    page-break-before: always !important;
+    break-before: page !important;
+  }
+
+  .page-break-after {
+    page-break-after: always !important;
+    break-after: page !important;
+  }
+
+  .avoid-break {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Section headers */
+  h1, h2, h3, h4 {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  /* Tables stay together */
+  table,
+  .grid.border {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Ensure spacing between questions */
+  .space-y-4 > *,
+  .space-y-5 > *,
+  .space-y-6 > * {
+    margin-bottom: 12pt !important;
+  }
+
+  /* Essay lines more visible */
+  .border-dashed {
+    border-color: #666 !important;
+    height: 24pt !important;
+    margin-bottom: 8pt !important;
+  }
+}
